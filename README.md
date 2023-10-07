@@ -15,5 +15,18 @@ My task is to review the IT manager’s scope, goals, and risk assessment report
 
 - <b>Windows 11</b> 
 
+<h2>Program walk-through:</h2> 
 
+<p align="center">
+
+  The file containing the Audit control checklist was also uploaded
+<br />
+
+<img width="413" alt="image" src="https://github.com/Sophia464/SecurityAudit/assets/145819538/aafce4d0-ac3d-440e-9558-dfa76db76130">
+
+<br />
+<img width="409" alt="image" src="https://github.com/Sophia464/SecurityAudit/assets/145819538/b5e23f90-3d38-4801-9d4f-629d3af0a88f">
+
+<br />
+<img width="409" alt="image" src="https://github.com/Sophia464/SecurityAudit/assets/145819538/20fa43c7-4d37-4b2b-a7fa-9d6ac4288263">
 
