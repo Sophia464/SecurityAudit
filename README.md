@@ -15,5 +15,5 @@ My task is to review the IT manager’s scope, goals, and risk assessment report
 
 - <b>Windows 11</b> 
 
-<h2>Project walk-through:</h2>
+
 
